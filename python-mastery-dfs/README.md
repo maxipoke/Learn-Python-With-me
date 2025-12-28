@@ -57,20 +57,34 @@ Build reusable code and understand Python's object model.
 - **02_Object_Oriented_Programming**: Classes, inheritance, magic methods, and MRO
 - **03_Modules_and_Packages**: Import system, namespace packages, and distribution
 
-### 03_System_Integration
+### 03_CS_Fundamentals_and_DSA
+Master computer science fundamentals and data structures & algorithms.
+
+- **01_Linear_Structures**: 
+  - **Stacks_and_Queues**: List implementation, deque, monotonic stacks, circular queues
+  - **Linked_Lists**: Singly/doubly linked lists, cycle detection, Floyd's algorithm
+- **02_Trees_and_Heaps**:
+  - **Binary_Trees**: Tree traversals, BST, AVL introduction, serialization
+  - **Heaps_and_PriorityQueues**: heapq module, min/max heaps, priority queue applications
+- **03_Graphs**: Adjacency representations, BFS, DFS, Dijkstra's algorithm, topological sort, Union-Find
+- **04_Algorithmic_Paradigms**:
+  - **Searching_Sorting**: Binary search, sorting algorithms (bubble, insertion, merge, quick, Timsort)
+  - **Dynamic_Programming**: Memoization, tabulation, 2D DP, knapsack problem
+
+### 04_System_Integration
 Interact with the system and handle errors gracefully.
 
 - **01_File_Handling**: Reading, writing, and context managers
 - **02_Exception_Handling**: Try-except, custom exceptions, and error handling patterns
 
-### 04_Standard_Library_DeepDive
+### 05_Standard_Library_DeepDive
 Leverage Python's powerful standard library.
 
 - **01_DateTime**: Time zones, formatting, and arithmetic
 - **02_Collections**: NamedTuple, deque, Counter, and specialized containers
 - **03_itertools_and_functools**: Functional programming tools and generators
 
-### 05_External_Libraries
+### 06_External_Libraries
 Extend Python's capabilities with essential third-party libraries.
 
 - **01_Data_Analysis_Stack**: NumPy arrays and Pandas DataFrames
