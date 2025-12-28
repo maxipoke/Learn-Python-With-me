@@ -1,0 +1,20 @@
+# Core Jupyter Environment
+jupyter>=1.0.0
+jupyterlab>=3.0.0
+ipykernel>=6.0.0
+
+# Data Analysis Stack
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Web Interactions
+requests>=2.26.0
+
+# Optional: Enhanced Jupyter experience
+ipywidgets>=7.6.0
+tqdm>=4.62.0
+
